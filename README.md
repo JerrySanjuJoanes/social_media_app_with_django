@@ -1,1 +1,1 @@
-# This is my first Danjo project
+# This is my first Django project
